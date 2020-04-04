@@ -2,3 +2,6 @@ git init
 git status
 git add <filename>
 git commit -m "<relevent comment>"
+git log
+git checkout <git ID>
+git checkout master
